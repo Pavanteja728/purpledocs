@@ -1,0 +1,38 @@
+
+{
+    "French": {
+      "Home": "Accueil",
+      "Movies": "Films",
+      "TV Shows": "Émissions de télévision",
+      "Sports": "Sports",
+      "Live": "En direct"
+    },
+    "German": {
+      "Home": "Zuhause",
+      "Movies": "Filme",
+      "TV Shows": "Fernsehsendungen",
+      "Sports": "Sport",
+      "Live": "Live"
+    },
+    "Russian": {
+      "Home": "Дом",
+      "Movies": "Фильмы",
+      "TV Shows": "Телешоу",
+      "Sports": "Спорт",
+      "Live": "Прямой эфир"
+    },
+    "Spanish": {
+      "Home": "Hogar",
+      "Movies": "Películas",
+      "TV Shows": "Programas de televisión",
+      "Sports": "Deportes",
+      "Live": "En vivo"
+    },
+    "Chinese": {
+      "Home": "jiā",
+      "Movies": "diàn yǐng",
+      "TV Shows": "tǐ yù",
+      "Sports": "diàn shì jié mú",
+      "Live": "zhí bō"
+    }
+  }
